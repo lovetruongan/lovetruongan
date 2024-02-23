@@ -1,4 +1,5 @@
-
+WELCOME TO MY GITHUB 👋👋👋
+My name is An, Nguyen Bui Truong An. I am a student at the Post and Telecommunications Institute of Technology.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100041748843492) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%B9i-tr%C6%B0%E1%BB%9Dng-an-aa3a322b5/) 
 
